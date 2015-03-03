@@ -2,8 +2,6 @@
 #include <iostream>
 #include <string>
 
-#include "fonctionsModele.hpp"
-
 using namespace std;
 
 class fonctionsModele
@@ -21,7 +19,6 @@ public:
 
 	template <typename T>
 	unsigned int CompterElement(const T valeur,const T tableau[],const int nbElements);
-
-private:
-
 };
+
+#include "fonctionsModele.hpp"

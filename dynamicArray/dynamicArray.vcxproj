@@ -12,6 +12,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dynamicArray.h" />
+    <ClInclude Include="DynamicArray.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{86CE3160-6C66-4ED4-9173-F54CC1697E8F}</ProjectGuid>
